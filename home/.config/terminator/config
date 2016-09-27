@@ -1,0 +1,46 @@
+[global_config]
+  homogeneous_tabbar = False
+  scroll_tabbar = True
+  tab_position = hidden
+  title_hide_sizetext = True
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#1c1c1c"
+    background_image = None
+    cursor_color = "#e2bbef"
+    cursor_shape = underline
+    font = Tamsyn 10
+    foreground_color = "#ddeedd"
+    palette = "#3d352a:#cd5c5c:#86af80:#e8ae5b:#6495ed:#deb887:#b0c4de:#bbaa99:#554444:#cc5533:#88aa22:#ffa75d:#87ceeb:#996600:#b0c4de:#ddccbb"
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[3024 Day]]
+    background_color = "#f7f7f7"
+    background_image = None
+    cursor_color = "#4a4543"
+    foreground_color = "#4a4543"
+    palette = "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7"
+  [[3024 Night]]
+    background_color = "#090300"
+    background_image = None
+    cursor_color = "#a5a2a2"
+    foreground_color = "#a5a2a2"
+    palette = "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7"
+  [[Arthur]]
+    background_color = "#1c1c1c"
+    background_image = None
+    cursor_color = "#e2bbef"
+    foreground_color = "#ddeedd"
+    palette = "#3d352a:#cd5c5c:#86af80:#e8ae5b:#6495ed:#deb887:#b0c4de:#bbaa9:#554444:#cc5533:#88aa22:#ffa75d:#87ceeb:#996600:#b0c4de:#ddccbb"
