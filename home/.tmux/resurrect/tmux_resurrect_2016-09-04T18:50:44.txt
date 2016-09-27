@@ -1,0 +1,9 @@
+pane	0	0	:fish	1	:*	0	:/home/thomas	0	finch	:finch
+pane	0	0	:fish	1	:*	1	:/home/thomas	0	htop	:htop
+pane	0	0	:fish	1	:*	2	:/home/thomas	0	nbwmon	:nbwmon
+pane	0	0	:fish	1	:*	3	:/home/thomas	0	sudo	:sudo iftop
+pane	0	0	:fish	1	:*	4	:/home/thomas	0	ncdu	:ncdu
+pane	0	0	:fish	1	:*	5	:/home/thomas	0	fish	:
+pane	0	0	:fish	1	:*	6	:/home/thomas	1	fish	:
+window	0	0	1	:*	4040,274x81,0,0[274x33,0,0,0,274x47,0,34{90x47,0,34,1,111x47,91,34[111x23,91,34,2,111x23,91,58{58x23,91,58,5,52x23,150,58,6}],71x47,203,34[71x19,203,34,3,71x27,203,54,4]}]
+state	0	

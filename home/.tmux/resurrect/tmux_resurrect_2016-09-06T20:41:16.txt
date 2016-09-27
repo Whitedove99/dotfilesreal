@@ -1,0 +1,29 @@
+pane	0	0	:fish	1	:*	0	:/home/thomas	0	finch	:finch
+pane	0	0	:fish	1	:*	1	:/home/thomas	0	htop	:htop
+pane	0	0	:fish	1	:*	2	:/home/thomas	0	nbwmon	:nbwmon
+pane	0	0	:fish	1	:*	3	:/home/thomas	0	sudo	:sudo iftop
+pane	0	0	:fish	1	:*	4	:/home/thomas	0	fish	:
+pane	0	0	:fish	1	:*	5	:/home/thomas	0	fish	:
+pane	0	0	:fish	1	:*	6	:/home/thomas	1	fish	:
+pane	1	0	:fish	1	:*	0	:/home/thomas	1	fish	:
+pane	2	0	:htop	1	:*	0	:/home/thomas	0	finch	:finch
+pane	2	0	:htop	1	:*	1	:/home/thomas	1	htop	:htop
+pane	2	0	:htop	1	:*	2	:/home/thomas	0	nbwmon	:nbwmon
+pane	2	0	:htop	1	:*	3	:/home/thomas	0	sudo	:sudo iftop
+pane	2	0	:htop	1	:*	4	:/home/thomas	0	ncdu	:ncdu
+pane	2	0	:htop	1	:*	5	:/home/thomas	0	bash	:/bin/bash /usr/bin/yaourt spotify
+pane	2	0	:htop	1	:*	6	:/home/thomas	0	bash	:/bin/bash /usr/bin/yaourt soundcloud
+pane	2	0	:htop	1	:*	7	:/usr/share/man	0	man	:man vis
+pane	2	0	:htop	1	:*	8	:/home/thomas	0	vis	:vis
+pane	2	1	:fish	0	:	0	:/home/thomas	1	fish	:
+pane	2	2	:fish	0	:	0	:/home/thomas	1	fish	:
+pane	2	3	:fish	0	:	0	:/home/thomas	1	fish	:
+pane	2	4	:fish	0	:-	0	:/home/thomas	1	fish	:
+window	0	0	1	:*	e54a,274x81,0,0[274x33,0,0,1,274x47,0,34{92x47,0,34,2,109x47,93,34[109x23,93,34,3,109x23,93,58{56x23,93,58,4,52x23,150,58,5}],71x47,203,34[71x24,203,34,6,71x22,203,59,7]}]
+window	1	0	1	:*	d785,319x88,0,0,8
+window	2	0	1	:*	ef66,383x118,0,0[383x42,0,0,9,383x75,0,43{129x75,0,43,10,125x75,130,43[125x38,130,43,11,125x36,130,82{61x36,130,82,13,63x36,192,82,14}],127x75,256,43[127x38,256,43{43x38,256,43,12,43x38,300,43,19,39x38,344,43,20},127x36,256,82,16]}]
+window	2	1	0	:	535e,383x118,0,0,17
+window	2	2	0	:	d358,383x118,0,0,21
+window	2	3	0	:	d359,383x118,0,0,22
+window	2	4	0	:-	d35a,383x118,0,0,23
+state	2	

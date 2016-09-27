@@ -1,0 +1,16 @@
+pane	0	0	:finch	1	:*	0	:/home/thomas	1	finch	:finch
+pane	0	0	:finch	1	:*	1	:/home/thomas	0	htop	:htop
+pane	0	0	:finch	1	:*	2	:/home/thomas	0	nbwmon	:nbwmon
+pane	0	0	:finch	1	:*	3	:/home/thomas	0	sudo	:sudo iftop
+pane	0	0	:finch	1	:*	4	:/home/thomas	0	fish	:
+pane	0	0	:finch	1	:*	5	:/home/thomas	0	fish	:
+pane	0	0	:finch	1	:*	6	:/home/thomas	0	fish	:
+pane	0	0	:finch	1	:*	7	:/home/thomas	0	fish	:
+pane	0	0	:finch	1	:*	8	:/home/thomas	0	fish	:
+pane	1	0	:WeeChat 1.5	1	:*	0	:/home/thomas	0	finch	:zsh
+pane	1	0	:WeeChat 1.5	1	:*	1	:/home/thomas	0	fish	:
+pane	1	0	:WeeChat 1.5	1	:*	2	:/home/thomas	1	fish	:
+pane	1	0	:WeeChat 1.5	1	:*	3	:/home/thomas	0	nbwmon	:nbwmon
+window	0	0	1	:*	d01e,274x81,0,0[274x25,0,0,0,274x55,0,26{90x55,0,26,1,90x55,91,26[90x25,91,26,2,90x29,91,52{40x29,91,52,4,49x29,132,52,5}],92x55,182,26[92x14,182,26{46x14,182,26,3,45x14,229,26,8},92x21,182,41,6,92x18,182,63,7]}]
+window	1	0	1	:*	bcda,257x74,0,0{112x74,0,0,9,144x74,113,0[144x8,113,0,13,144x8,113,9,15,144x56,113,18,14]}
+state	1	
