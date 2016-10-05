@@ -1,0 +1,146 @@
+.button {
+	border-radius: 2px;
+	padding: 5px;
+}
+
+.headerBar {
+	padding: 0 5px 5px 5px;
+}
+
+.headerBar .system-menu-action {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	border-right: 0;
+	padding: 8px;
+}
+
+.headerBar .system-menu-action:focus,
+.headerBar .system-menu-action:hover {
+	color: #07a0c6;
+	border: 1px solid #282c2c;
+	padding: 8px;
+	border-right: 0;
+}
+
+.headerBar .system-menu-action.last:focus,
+.headerBar .system-menu-action.last:hover,
+.headerBar .system-menu-action.last {
+	border-right: 1px;
+}
+
+.headerBar .system-menu-action.active:focus,
+.headerBar .system-menu-action.active:hover,
+.headerBar .system-menu-action.active {
+	color: white;
+}
+
+.headerBar .system-menu-action.active {
+	background-color: #077391;
+}
+
+.headerBar .button {
+	width: 90px;
+	border-radius: 0;
+}
+
+.headerBar .button.activeButton {
+	border-right: 0;
+}
+
+.headerBar .button.active {
+	background-color: #077391;
+}
+
+.scrollBox {
+	margin-top: 5px;
+	height: 500px;
+	width: 550px;
+}
+
+.taskGridInner {
+	margin: 5px 0;
+}
+
+.taskGrid .hidden {
+	visibility: hidden;
+}
+
+.taskGrid .minor {
+	color: #00c6ff;
+}
+
+.taskGrid .medium {
+	color: #ffff00;
+}
+
+.taskGrid .warning,
+.taskGrid .urgent {
+	color: #ff5b00;
+}
+
+.taskGrid .completed{
+	color: #13d000;
+}
+
+.button-container{
+	padding: 5px 0 0 25px;
+}
+
+.taskDataRowMenuItem {
+	padding: 0;
+	margin: 0 0 0 20px;
+}
+
+.taskDataRow {
+	padding: 3px;
+	width: 450px;
+	height: 20px;
+}
+
+.taskDataRow .rowValue {
+	width: 330px;
+}
+
+.buttonBox {
+	width: 450px;
+	margin-bottom: 5px;
+}
+
+.buttonBox .button {
+	margin-right: 10px;
+}
+
+.button:hover {
+	color: white;
+	background: rgba(144, 144, 148, 0.21);
+}
+
+.taskModificationDialog .headline {
+	margin-bottom: 10px;
+}
+
+.taskModificationDialog .modificationInputBox {
+	margin: 7px 0;
+}
+
+.createTaskDialog {
+	width: 450px;
+}
+
+.createTaskDialog .headline {
+	margin-bottom: 10px;
+}
+
+.createTaskDialog StEntry {
+	margin-bottom: 10px;
+}
+
+.createTaskDialog .additionalArgumentsInputBox {
+	margin-bottom: 0;
+}
+
+.prompt-dialog-error-label {
+	margin-top: 10px;
+	color: #ff2f31;
+}
