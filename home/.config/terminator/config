@@ -1,4 +1,5 @@
 [global_config]
+  borderless = True
   homogeneous_tabbar = False
   scroll_tabbar = True
   tab_position = hidden
