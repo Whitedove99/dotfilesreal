@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Postman
+Exec=/opt/vivaldi-beta/vivaldi-beta
+Icon=vivaldi-fhbjgbiflinjbdggehcddcbncdddomop-Default
+StartupWMClass=crx_fhbjgbiflinjbdggehcddcbncdddomop

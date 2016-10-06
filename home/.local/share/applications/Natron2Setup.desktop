@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Natron2 Setup
+Exec=/home/thomas/Natron2/NatronSetup
+Icon=natronIcon256_linux
+Categories=Graphics;2DGraphics;RasterGraphics;
+

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=application/x-wine-extension-fdx;
+Exec=env WINEPREFIX="/home/thomas/.wine" wine start /ProgIDOpen Final\\ Draft\\ Xml.Document %f
+NoDisplay=true
+StartupNotify=true

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Read Me
+Exec=env WINEPREFIX="/home/thomas/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/thomas/.wine/dosdevices/c:/users/Public/Start\\ Menu/Programs/AutoREALM/Read\\ Me.lnk
+Type=Application
+StartupNotify=true
+Icon=6B85_readme.0

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Twitch
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=njkgloeblmgmgbaigpeojedelnfhnncn
+Icon=chrome-njkgloeblmgmgbaigpeojedelnfhnncn-Default
+StartupWMClass=crx_njkgloeblmgmgbaigpeojedelnfhnncn

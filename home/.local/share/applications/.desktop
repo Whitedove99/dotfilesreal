@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=
+Exec=chromium-browser --app=http://
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/thomas/.local/share/ice/.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=Chromium
+StartupNotify=true

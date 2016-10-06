@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Unturned
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/304930
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

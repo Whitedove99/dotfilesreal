@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Final Draft 9
+Exec=env WINEPREFIX="/home/thomas/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/thomas/.wine/dosdevices/c:/users/thomas/Start\\ Menu/Programs/Final\\ Draft\\ 9.lnk
+Type=Application
+StartupNotify=true
+Icon=E808_Final Draft.0

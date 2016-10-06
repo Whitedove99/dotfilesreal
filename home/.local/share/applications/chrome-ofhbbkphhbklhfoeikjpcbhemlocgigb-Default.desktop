@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Web Server for Chrome
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=ofhbbkphhbklhfoeikjpcbhemlocgigb
+Icon=chrome-ofhbbkphhbklhfoeikjpcbhemlocgigb-Default
+NoDisplay=true
+StartupWMClass=crx_ofhbbkphhbklhfoeikjpcbhemlocgigb

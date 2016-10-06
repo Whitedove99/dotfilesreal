@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Netfilx
+Exec=ice-firefox https://www.netflix.com/ca/
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/thomas/.local/share/ice/netfilx.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=Chromium
+StartupNotify=true
+IceFirefox=www.netflix.com_ca_

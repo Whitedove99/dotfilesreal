@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AutoREALM executeable
+MimeType=application/x-wine-extension-aurx;
+Exec=env WINEPREFIX="/home/thomas/.wine" wine start /ProgIDOpen AutoREALM %f
+NoDisplay=true
+StartupNotify=true
+Icon=641C_AutoREALM.0
