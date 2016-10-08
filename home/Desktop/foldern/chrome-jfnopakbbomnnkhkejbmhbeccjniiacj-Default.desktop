@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Terrarium TV
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=jfnopakbbomnnkhkejbmhbeccjniiacj
+Icon=/home/thomas/tmp/Terrarium-TV-Icon.png
+StartupWMClass=crx_jfnopakbbomnnkhkejbmhbeccjniiacj
+Name[en_US]=\s\s\s\s\s\s\s\s\s\s

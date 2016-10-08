@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Name=Netfilx
+Exec=ice-firefox https://www.netflix.com/ca/
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/thomas/tmp/d361026edef6bb847f538e097ec0f479.jpg
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=Chromium
+StartupNotify=true
+IceFirefox=www.netflix.com_ca_
+Name[en_US]=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s

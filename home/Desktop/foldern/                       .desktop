@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Name=Reddit
+Exec=chromium-browser --app=https://www.reddit.com/
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/thomas/tmp/icons/reddit.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=Chromium
+StartupNotify=true
+Name[en_US]=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s

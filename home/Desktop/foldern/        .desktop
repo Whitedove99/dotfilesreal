@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Categories=Network;FileTransfer;P2P;Qt;
+Exec=librevault-gui %U
+GenericName=File synchronization
+Comment=Synchronize your folders securely using peer-2-peer network or cloud or both. You decide.
+Icon=/home/thomas/tmp/vault.png
+Name=Librevault
+Terminal=false
+Type=Application
+
+# Translations
+Name[en_US]=\s\s\s\s\s\s\s\s

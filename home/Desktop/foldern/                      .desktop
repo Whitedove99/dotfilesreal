@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=PlayOnLinux
+Comment=PlayOnLinux
+Type=Application
+Exec=playonlinux
+Icon=/home/thomas/Downloads/wine-icon.png
+Categories=Application;Game
+Name[en_US]=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s

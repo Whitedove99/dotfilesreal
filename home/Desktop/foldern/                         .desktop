@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Casper
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=jkdjinlpgifjpgafogkncffeehcdladi
+Icon=/home/thomas/tmp/snapchat.png
+StartupWMClass=crx_jkdjinlpgifjpgafogkncffeehcdladi
+Name[en_US]=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s

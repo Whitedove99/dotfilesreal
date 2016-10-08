@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=gPodder
+X-GNOME-FullName=gPodder Podcast Client
+GenericName=Podcast Client
+Comment=Subscribe to audio and video content from the web
+Exec=/usr/bin/gpodder
+Icon=/home/thomas/Downloads/headphones.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Network;FileTransfer;News;GTK;
+StartupWMClass=gpodder
+Name[C]=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s

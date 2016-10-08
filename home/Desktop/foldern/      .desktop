@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Name=Drive
+Exec=chromium-browser --app=https://drive.google.com/drive/u/0/my-drive
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/thomas/tmp/google_drive_colored-512.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=Chromium
+StartupNotify=true
+Name[en_US]=\s\s\s\s\s\s

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Ice
+Comment=Desktop integration for webapps
+GenericName=Ice
+Exec=ice
+Icon=/home/thomas/tmp/ice_cream_stick_strawberry.png
+Terminal=false
+Type=Application
+Categories=GTK;Network;
+StartupNotify=false
+GenericName[en_US]=Ice
+Name[en_US]=\s\s\s\s\s

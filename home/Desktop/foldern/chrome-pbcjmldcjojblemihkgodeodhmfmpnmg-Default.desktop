@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Show Box
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=pbcjmldcjojblemihkgodeodhmfmpnmg
+Icon=/home/thomas/tmp/device-tv-icon.png
+StartupWMClass=crx_pbcjmldcjojblemihkgodeodhmfmpnmg
+Name[en_US]=\s\s\s\s
